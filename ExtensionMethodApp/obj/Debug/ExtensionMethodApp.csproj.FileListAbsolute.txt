@@ -1,0 +1,7 @@
+D:\test\.NET\ExtensionMethodApp\bin\Debug\ExtensionMethodApp.exe.config
+D:\test\.NET\ExtensionMethodApp\bin\Debug\ExtensionMethodApp.exe
+D:\test\.NET\ExtensionMethodApp\bin\Debug\ExtensionMethodApp.pdb
+D:\test\.NET\ExtensionMethodApp\obj\Debug\ExtensionMethodApp.csproj.AssemblyReference.cache
+D:\test\.NET\ExtensionMethodApp\obj\Debug\ExtensionMethodApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\ExtensionMethodApp\obj\Debug\ExtensionMethodApp.exe
+D:\test\.NET\ExtensionMethodApp\obj\Debug\ExtensionMethodApp.pdb
